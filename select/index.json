@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ありがちな恋愛",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2025-12-26T05:14:43.743629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ありがちな恋愛",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/01_ありがちな恋愛_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ありがちな恋愛",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/02_ありがちな恋愛_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ありがちな恋愛",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/03_ありがちな恋愛_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありがちな恋愛",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_ありがちな恋愛_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ありがちな恋愛",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_ありがちな恋愛_乃木坂46.txt"
+    }
+  ]
+}
